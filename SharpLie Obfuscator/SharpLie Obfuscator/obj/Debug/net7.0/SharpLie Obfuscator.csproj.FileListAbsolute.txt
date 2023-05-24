@@ -1,0 +1,44 @@
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.csproj.AssemblyReference.cache
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.AssemblyInfoInputs.cache
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.AssemblyInfo.cs
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\SharpLie Obfuscator.exe
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\SharpLie Obfuscator.deps.json
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\SharpLie Obfuscator.runtimeconfig.json
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\SharpLie Obfuscator.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\SharpLie Obfuscator.pdb
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\refint\SharpLie Obfuscator.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.pdb
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.genruntimeconfig.cache
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\ref\SharpLie Obfuscator.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\biswa\source\repos\SharpLie Obfuscator\SharpLie Obfuscator\obj\Debug\net7.0\SharpLie Obfuscator.csproj.CopyComplete

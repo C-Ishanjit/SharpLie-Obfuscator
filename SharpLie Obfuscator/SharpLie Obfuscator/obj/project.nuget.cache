@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCzjTEbtfxNs7ASvg9dpi5Kl/JJykDgsdc2vgWS2/wWaTVDlhQVXWxwpDekBOowQD9xbd2Rr8J1zJAYVQmN2Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\biswa\\source\\repos\\SharpLie Obfuscator\\SharpLie Obfuscator\\SharpLie Obfuscator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\biswa\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\microsoft.codeanalysis.common\\4.6.0\\microsoft.codeanalysis.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.6.0\\microsoft.codeanalysis.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\biswa\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
